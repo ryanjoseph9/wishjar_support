@@ -41,7 +41,7 @@ Changes to this Privacy Policy will take effect when posted on this page.
 
 8. **Contact Information**
 
-If you have any questions, please feel free to contact us at: wishjar@outlook.com
+If you have any questions, please feel free to contact us via email at: wishjar@outlook.com
 
 
 # 心享罐·WishJar 隐私政策
@@ -87,5 +87,5 @@ If you have any questions, please feel free to contact us at: wishjar@outlook.co
 
 8. 联系方式
 
-如有任何问题，欢迎通过以下方式与我们联系：wishjar@outlook.com
+如有任何问题，欢迎通过邮箱与我们联系：wishjar@outlook.com
 
