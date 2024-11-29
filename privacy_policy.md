@@ -2,7 +2,7 @@
 
 Dear User, thank you for using our application. This Privacy Policy is intended to help you understand how we collect, use, and store your personal information. Please read this Privacy Policy carefully before using the app.
 
-**Information We May Collect**
+**Information We May Collect**111
 
 - **Personal Identifiable Information**: Such as your name, email address
 - **Device Information**: Such as device model, operating system version
