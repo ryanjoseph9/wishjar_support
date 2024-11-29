@@ -1,2 +1,2 @@
 # Support for WishJar
-For technical support, please contact us at support@myapp.com.
+For support, please contact us via email at: wishjar@outlook.com.
